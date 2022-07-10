@@ -8,7 +8,7 @@ service_account: ec2-user
 
 ##### Nexus details
 nexusserverip:54.82.28.148
-nexus_repo: myjavaartifacts
+nexus_repo:myjavaartifacts
 nexus_appname: myapp1
 
 ##### Dotnet variables
